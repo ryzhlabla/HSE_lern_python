@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alice",
+    "gender": "female",
+    "age": 28,
+    "weight": 62
+  },
+  {
+    "name": "Bob",
+    "gender": "male",
+    "age": 34,
+    "weight": 82
+  },
+  {
+    "name": "Clara",
+    "gender": "female",
+    "age": 23,
+    "weight": 55
+  },
+  {
+    "name": "David",
+    "gender": "male",
+    "age": 45,
+    "weight": 90
+  },
+  {
+    "name": "Eva",
+    "gender": "female",
+    "age": 31,
+    "weight": 68
+  },
+  {
+    "name": "Frank",
+    "gender": "male",
+    "age": 29,
+    "weight": 77
+  },
+  {
+    "name": "Grace",
+    "gender": "female",
+    "age": 36,
+    "weight": 60
+  },
+  {
+    "name": "Henry",
+    "gender": "male",
+    "age": 40,
+    "weight": 85
+  },
+  {
+    "name": "Ivy",
+    "gender": "female",
+    "age": 27,
+    "weight": 58
+  },
+  {
+    "name": "Jack",
+    "gender": "male",
+    "age": 33,
+    "weight": 80
+  }
+]
